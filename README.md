@@ -1,6 +1,6 @@
 # Pride & Prediction
 
-Pride & Prediction is an AI text generation project inspired by Jane Austen's "Pride and Prejudice." Using N-gram models, the project generates sentences reminiscent of the novel's style and themes, providing an interactive experience for users to explore the language of Austen's classic work.
+Pride & Prediction is an AI text generation project inspired by Jane Austen's works. Using N-gram models, the project generates sentences reminiscent of the author's style and themes, providing an interactive experience for users to explore the language of Austen's classic works.
 
 ## Features
 
